@@ -35,7 +35,5 @@
 
 [![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&theme=dracula)](https://github.com/dishi24/github-readme-activity-graph)
 <br>
-<h3 align="center">Made with ❤️</h3>
-<br>
+<h4 align="center">Made with ❤️</h4>
 
-![visitors](https://dishi24-visitor-badge.glitch.me/badge?page_id=dishi24.dishi24)
