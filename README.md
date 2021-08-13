@@ -1,7 +1,7 @@
 <h2 align="center">Hey Folks, Drishti Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   - 🏛️: I'm in my Freshman year at Jabalpur Engineering College, Madhya Pradesh <br>
-  - 💻 Computer Science Stream<br>
-
+  - 💻 Computer Science Stream<br>  
+  
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dishi24&theme=radical&show_icons=true" alt="dishi24's Github Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dishi24&theme=radical&show_icons=true" />
