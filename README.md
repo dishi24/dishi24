@@ -14,3 +14,8 @@
 <a href="mailto:drishtirana1011@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+[![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/dishi24/github-readme-activity-graph)
+<br>
+<h3 align="center">Made with ❤️</h3>
