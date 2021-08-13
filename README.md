@@ -44,7 +44,9 @@
 
 [![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&theme=dracula)](https://github.com/dishi24/github-readme-activity-graph)
 <br>
-<div align="center">
+
   ![AMA](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  
+  
+  
   ![Buit with love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-</div>
+
