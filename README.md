@@ -14,11 +14,7 @@
   
 <a href="https://www.linkedin.com/in/drishti-rana-54053a172/" target="_blank">
 <img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
-<a href="<a href="https://twitter.com/DrishtiRana14" target="_blank">
-
-
-  
+   
 <a href="mailto:drishtirana1011@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
