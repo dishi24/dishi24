@@ -1,11 +1,15 @@
 <h2 align="center">Hey Folks, Drishti Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  - :school: I'm in my Freshman year at Jabalpur Engineering College, Madhya Pradesh <br>
-  - :computer: Computer Science Stream<br>
+  - 🏛️: I'm in my Freshman year at Jabalpur Engineering College, Madhya Pradesh <br>
+  - 💻 Computer Science Stream<br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dishi24&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dishi24's Github Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dishi24&title_color=7A7ADB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dishi24&theme=radical&show_icons=true" alt="dishi24's Github Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dishi24&theme=radical&show_icons=true" />
+</div>
+
 
 <p align="center">
+<h2 align="center">Connect With Me !! 🤝</h2>
 <a href="https://github.com/dishi24" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
   
