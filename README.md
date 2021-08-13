@@ -16,8 +16,7 @@
 <img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  
 <a href="<a href="https://twitter.com/DrishtiRana14" target="_blank">
-<img alt="Twitter" src="<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>" /></a>
-</p>
+
 
   
 <a href="mailto:drishtirana1011@gmail.com" target="_blank">
@@ -25,6 +24,6 @@
 </p>
 
 
-[![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/dishi24/github-readme-activity-graph)
+[![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&theme=rogue)](https://github.com/dishi24/github-readme-activity-graph)
 <br>
 <h3 align="center">Made with ❤️</h3>
