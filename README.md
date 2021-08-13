@@ -14,6 +14,11 @@
   
 <a href="https://www.linkedin.com/in/drishti-rana-54053a172/" target="_blank">
 <img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ 
+<a href="<a href="https://twitter.com/DrishtiRana14" target="_blank">
+<img alt="Twitter" src="<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>" /></a>
+</p>
+
   
 <a href="mailto:drishtirana1011@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
