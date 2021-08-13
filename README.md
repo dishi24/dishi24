@@ -16,10 +16,13 @@
   
 <a href="https://www.linkedin.com/in/drishti-rana-54053a172/" target="_blank">
 <img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   
+<a href="mailto:drishtirana1011@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+<h3 align="center">
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+</h3>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -29,10 +32,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
   
 ## Stats  
-<a href="mailto:drishtirana1011@gmail.com" target="_blank">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 
 [![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&theme=dracula)](https://github.com/dishi24/github-readme-activity-graph)
 <br>
