@@ -7,6 +7,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dishi24&theme=dracula&show_icons=true" alt="dishi24's Github Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dishi24&theme=dracula&show_icons=true" />
+  <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishi24&layout=compact&hide=html" alt="most used language" /></p>
 </div>
 
 <h1 align="center">Connect With Me !! 🤝</h1>
