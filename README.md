@@ -45,7 +45,7 @@
 [![Drishti's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishi24&theme=dracula)](https://github.com/dishi24/github-readme-activity-graph)
 <br>
 
-</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishi24" alt="dishi24" /> </p>
 
 ![AMA](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  
